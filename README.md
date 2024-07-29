@@ -1,3 +1,6 @@
+
+![demo](https://github.com/user-attachments/assets/34a6ceae-17df-484d-a7e7-611601fd35af)
+
 # Kubernetes-DevSecOps-CI-CD-Project
 
 - [Step 1: SSH Exchange between local computer and Github account.](#step-1-ssh-exchange-between-local-computer-and-github-account)
