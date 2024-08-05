@@ -56,7 +56,7 @@ variable "instance_type" {
 variable "key_name" {
   description = "EC2 keypair"
   type        = string
-  default     = "gitopskey"
+  default     = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEyH2JxSIJbwcCU3JGJqzv3eh3LpPSF4FlIoywImG3zn"
 }
 
 variable "instance_name" {
