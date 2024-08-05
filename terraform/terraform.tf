@@ -7,7 +7,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "cloudfontech"
+    bucket = "techsecom-s3-remote-state-dev "
     key    = "terraform.tfstate"
     region = "us-east-1"
   }
